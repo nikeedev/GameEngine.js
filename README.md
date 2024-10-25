@@ -1,7 +1,7 @@
-## **Playlib**: A 2D game framework made using HTML Canvas!
+> [!WARNING]  
+> I am no longer updating this project. The repository will still be open for changes and PRs and issue, but the actual development is set on pause for now.
 
-> [!NOTE]  
-> I am back with developing further on the framework, a year of repositoty being archived! Big changes will happen, and the docs will be probably moved to a separate "mdbook" page on my GitHub Pages rather than on the Gitbook.io.
+## **Playlib**: A 2D game framework made using HTML Canvas!
 
 ## Changelog:
 
